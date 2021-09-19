@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "UNIPAZ-IOT-PROJECT",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
